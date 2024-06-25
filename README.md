@@ -73,13 +73,22 @@ Make sure you have Java Development Kit (JDK) installed on your system. You can 
 
 
 ## SCREENSHOTS OF THE RUNNING PROGRAM:
+
+* ## Purchase or sale button
 ![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/a231dfeb-94d3-4d59-b201-caaa45312af9)
 
 ![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/afeab21a-1efd-41d5-9b70-e55955a9f472)
 
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/030c22c3-e956-4b74-9541-52a7bffa7676)
+* ## Insufficient funds
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/9f4c7afb-5fb8-41a6-9f2a-3bd5f998f32a)
 
+* ## Negative values
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/02d17cae-8101-4cb2-aac2-0ad285cb5efa)
+
+* ## Incorrect values
 ![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/d0d4487c-6751-4c54-97be-94618dc7f42c)
 
+
+#### Thank you very much for your attention and for going to the end. :D
 
 
