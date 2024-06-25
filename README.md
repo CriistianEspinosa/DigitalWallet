@@ -89,10 +89,3 @@ Make sure you have Java Development Kit (JDK) installed on your system. You can 
 
 * ## Incorrect values
 ![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/d0d4487c-6751-4c54-97be-94618dc7f42c)
-
-
-
-                          Thank you very much for your attention and for going to the end. 
-                                                       :D
-
-
