@@ -1,4 +1,4 @@
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/c4ae1762-e11d-4130-833f-6785d0c13975)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/e404ffd7-1dd9-4a70-b727-844c147cac71)![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/c4ae1762-e11d-4130-833f-6785d0c13975)
 
 
 # DIGITAL WALLET
@@ -77,15 +77,20 @@ Make sure you have Java Development Kit (JDK) installed on your system. You can 
 ## SCREENSHOTS OF THE RUNNING PROGRAM:
 
 * ## Purchase or sale button
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/a231dfeb-94d3-4d59-b201-caaa45312af9)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/fe8578bb-7b97-49a5-bffd-b3943f56f2b6)
 
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/afeab21a-1efd-41d5-9b70-e55955a9f472)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/4a9d413e-8f18-4318-82d2-37a3c75ae980)
+
 
 * ## Insufficient funds
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/9f4c7afb-5fb8-41a6-9f2a-3bd5f998f32a)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/377299f9-8692-40f0-99cd-2d303254dd60)
+
 
 * ## Negative values
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/02d17cae-8101-4cb2-aac2-0ad285cb5efa)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/e5390764-9e7c-4b98-a04b-51164ffc369d)
+
 
 * ## Incorrect values
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/d0d4487c-6751-4c54-97be-94618dc7f42c)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/829c5d9a-c440-4567-b1da-c8cac913fb6c)
+
+
