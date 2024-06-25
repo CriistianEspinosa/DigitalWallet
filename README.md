@@ -1,4 +1,4 @@
-![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/e404ffd7-1dd9-4a70-b727-844c147cac71)![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/c4ae1762-e11d-4130-833f-6785d0c13975)
+(https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/c4ae1762-e11d-4130-833f-6785d0c13975)
 
 
 # DIGITAL WALLET
