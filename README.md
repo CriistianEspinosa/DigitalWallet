@@ -1,4 +1,6 @@
-![program1](https://github.com/CriistianEspinosa/ProjectSwitchFuntion/assets/169914497/76c79f2b-81c0-4251-bc0c-85eb8c8582f9)
+![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/c4ae1762-e11d-4130-833f-6785d0c13975)
+
+
 # DIGITAL WALLET
 Welcome to this program, which works as a digital wallet that can handle numerical entries through two different options: one to make payments and another to make sales. Depending on the option selected, the wallet balance will increase or decrease. You will start with an initial balance of $100. Each operation carried out must be registered with a unique identifier, the date and time of execution, as well as the amount involved. For this purpose, the "Apache NetBeans IDE" version 22 development environment will be used, along with Java version 17.
 
@@ -89,6 +91,8 @@ Make sure you have Java Development Kit (JDK) installed on your system. You can 
 ![image](https://github.com/CriistianEspinosa/DigitalWallet/assets/169914497/d0d4487c-6751-4c54-97be-94618dc7f42c)
 
 
-#### Thank you very much for your attention and for going to the end. :D
+
+                          Thank you very much for your attention and for going to the end. 
+                                                       :D
 
 
